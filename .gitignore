@@ -29,3 +29,4 @@ terraform.tfvars
 # OS-specific
 .DS_Store
 Thumbs.db
+setup-monitoring.sh
